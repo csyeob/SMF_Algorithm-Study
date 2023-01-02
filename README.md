@@ -3,13 +3,13 @@
 e-Book : this is coding test 활용 (1월 ~2월) <br>
 이후 [프로그래머스](https://school.programmers.co.kr/) 활용 예정<br>
 
-## Stduy Rules
+## :question:스터디 Rules 
 * 맡은 파트 정리 (e-Book)
 * 1일 1커밋 개인 프로젝트, 공부 및 현 스터디 repo
 * 매주 금 혹은 주말 review 진행 review 파일에 정리
 * **할 수 있는 만큼만 하기! 무리 X**
 
-## 진행 방법
+## :wrench:진행 방법
 1. SMF_Algoritm-Study 레포지토리 fork 하기
 2. 자신 계정의 깃허브에 똑같은 레포가 잇어야함 !! <br>
 생기게 되면 Forked from csyeob/SMF_Algorithm-Study 레포가 생겨야함.<br>
